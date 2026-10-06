@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+scikit-learn>=1.4
+duckdb>=1.0
+scipy>=1.11
+matplotlib>=3.8
+tabulate>=0.9
+pytest>=8.0

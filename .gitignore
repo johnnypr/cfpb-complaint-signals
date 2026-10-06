@@ -1,0 +1,16 @@
+# raw downloads, extracted text and third-party dictionaries are rebuilt by the pipeline
+data/raw/
+data/interim/
+data/external/
+*.duckdb
+*.duckdb.wal
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+.env
